@@ -20,7 +20,7 @@ Here are the technologies and tools I have worked with:
 ## Contact Information
 If you're interested in collaborating or discussing potential projects, feel free to reach out to me:
 
-- Email: [pranay.majee@gmail.com](pranay.majee@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pranay-majee-19b3371a6/)
+- Email: [My Email](pranay.majee@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pranay-majee-19b3371a6/)
 
 I'm excited about the prospect of working together and contributing to impactful projects!
